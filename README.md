@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabita</h1>
+<h1 align="center">I'm a Computer geek</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabitaP&label=Profile%20views&color=0e75b6&style=flat" alt="prabitaP" /> </p>
 
